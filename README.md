@@ -62,3 +62,7 @@ Example code for the lesson, “Learn Objective-C, Building an App (Part 10): Ba
 
 Example code for the lesson, “Learn Objective-C, Building an App (Part 12): Working With Web Data,” which can be found here: http://www.binpress.com/tutorial/learn-objectivec-building-an-app-part-12-working-with-web-data/105
 
+* Building an App Part 5 - Table Views and Nav Controllers
+
+Example code for the lesson, “Learn Objective-C, Building an App (Part 5): Table Views and Nav Controllers,” which can be found here: http://www.binpress.com/tutorial/learn-objectivec-building-an-app-part-5-table-views-and-nav-controllers/94
+
