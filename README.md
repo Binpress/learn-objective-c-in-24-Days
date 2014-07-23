@@ -1,7 +1,6 @@
 #Learn Objective-C in 24 Days
 
-This repo contains code examples references in the “Learn Objective-C in 24 Days” series of articles, which lives on Binpress.com. Each folder contains the code of a particular article, though not each post has downloadable code examples. See the index below for a guide on which folder belongs to which chapter.
-
+This repo contains code examples references in the [*Learn Objective-C in 24 Days*](http://www.binpress.com/tutorial/learn-objectivec-in-24-days/38) series of articles, which lives on Binpress.com. Each folder contains the code of a particular article, though not each post has downloadable code examples. See the index below for a guide on which folder belongs to which chapter.
 
 
 ##Folders
